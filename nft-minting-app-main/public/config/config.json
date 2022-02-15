@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6776b3b336D3b051755F2C3498D90754528CfBC1",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6776b3b336d3b051755f2c3498d90754528cfbc1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SkullFellaz",
+  "SYMBOL": "SFNFT",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/skullfellaz",
+  "SHOW_BACKGROUND": true
+}
